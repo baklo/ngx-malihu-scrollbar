@@ -1,7 +1,7 @@
 {
-  "name": "ngx-malihu-scrollbar",
+  "name": "ngx-malihu-scrollbar-angular10-fork",
   "version": "10.0.0-beta.0",
-  "description": "Angular scrollbar customization using Malihu jQuery Custom Scrollbar plugin",
+  "description": "Angular scrollbar customization using Malihu jQuery Custom Scrollbar plugin - forked to merge changes for Angular 10",
   "homepage": "https://github.com/jfcere/ngx-malihu-scrollbar",
   "license": "MIT",
   "author": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jfcere/ngx-malihu-scrollbar"
+    "url": "https://github.com/baklo/ngx-malihu-scrollbar"
   },
   "keywords": [
     "angular",
